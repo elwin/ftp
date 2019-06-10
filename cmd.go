@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"errors"
 	"fmt"
-	scion "github.com/elwin/transmit"
+	"github.com/elwin/transmit/scion"
 	"io"
 	"net/textproto"
 	"strconv"
